@@ -1,0 +1,70 @@
+#navbar{
+    background-color: rgb(194, 150, 236);
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: end;
+}
+.list{
+    list-style-type: none;
+    display: inline;
+    align-items: flex-end;
+    margin-right: 15px;
+}
+.navbar-elements{
+    text-decoration: none;
+    margin-left: 9px;
+    color: white;
+    font-size: 30px;;
+    padding: 5px;
+}
+.navbar-elements:hover{
+    color : black;
+}
+#section1{
+    font-size: 50px;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+#button{
+    background-color: rgb(194, 150, 236);
+    color: white;
+    height: 40px;
+    width: 100px;
+}
+#name{
+    color: rgb(194, 150, 236);
+}
+#resume{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+#footer{
+    background-color: rgb(41, 41, 41);
+    height: 200px;
+    margin-top: 150px;
+}
+#footer-name{
+    color: white;
+    padding-top: 20px;
+}
+.footer-list{
+    list-style-type: none;
+    display: inline;
+    align-items: flex-end;
+    margin-right: 15px;
+}
+.footer-navbar-elements{
+    text-decoration: none;
+    margin-left: 9px;
+    color: white;
+    font-size: 30px;;
+    padding: 5px;
+}
+.footer-navbar-elements:hover{
+    color : rgb(194, 150, 236);
+}
+#copyright{
+    color: white;
+    text-align: center;
+}

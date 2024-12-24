@@ -1,0 +1,62 @@
+#navbar{
+    background-color: rgb(194, 150, 236);
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: end;
+}
+.list{
+    list-style-type: none;
+    display: inline;
+    align-items: flex-end;
+    margin-right: 15px;
+}
+a{
+    text-decoration: none;
+    margin-left: 9px;
+    color: white;
+    font-size: 30px;;
+    padding: 5px;
+}
+a:hover{
+    color : black;
+}
+.box{
+    height: 400px;
+    width: 460px;
+    display: inline-block;
+   
+}
+#img2{
+    background-image: url('diploma.png');
+    background-size: 95%;
+    height: 250px;
+    width: 260px;
+    margin-left: 300px;
+}
+#img1{
+    background-image: url('Graduation.png');
+    background-size :87%;
+    height: 250px;
+    width: 260px;
+    margin-left: 300px;
+}
+#img3{
+    background-image: url('ssc.png');
+    background-size: 95%;
+    height: 250px;
+    width: 260px;
+    margin-left: 300px;
+}
+ul{
+    list-style-type:none;
+}
+p{
+    font-size: 20px;    
+}
+.education{
+    margin-top: 10px;
+    height: 300px;
+}
+#btech{
+    margin-top: 10px;
+}
